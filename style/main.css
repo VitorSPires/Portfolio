@@ -88,14 +88,14 @@ iframe{
     width: 150px;
     height: 150px;
     z-index: 2;
-    opacity: 3%;
-    margin: 25px 0 0 50px;
+    opacity: 4%;
+    margin: 20px 0 0 50px;
     pointer-events: none;
 }
 
 @media only screen and (max-width: 600px) {
     iframe {
-        width: 3528px;
+        width: 352px;
         height: 198px;
         border-radius: 10px;
         border-radius: 10px;
